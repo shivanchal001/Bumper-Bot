@@ -54,7 +54,7 @@ pip install pyserial
 
 1. Create a Workspace
 ```sh
-mkdir -p bumperbot/src
+mkdir -p bumperbot_ws/src
 ```
 
 2. Clone this repo
